@@ -1,0 +1,1034 @@
+What is your name?;Qual é o seu nome?
+What’s your name?;Qual é o seu nome?
+My name is Jake.;Meu nome é Jake.
+Hello. How are you?;Oi. Como está você? / Como vai você? / Tudo bem?
+I am fine, and you?;Eu estou bem, e você?
+Nice to meet you!;Prazer em te conhecer!
+Nice to meet you too.;O prazer é meu.
+What time is it?;Que horas são?
+I am hungry!;Estou com fome!
+I am thirsty!;Estou com sede!
+I am hot.;Eu estou com calor.
+Good morning.;Bom dia.
+Good afternoon.;Boa tarde.
+Good evening.;Boa noite.
+How old are you?;Quantos anos você tem?
+Are you sure?;Tem certeza?
+Go ahead.;Vá em frente.
+What a nice day!;Que dia bonito!
+What time is it?;Que horas são?
+Would you like some water?;Você quer um pouco de água?
+Could you help me to wash the dishes?;Você poderia me ajudar a lavar a louça?
+It’s too hot today!;Está muito quente hoje!
+Would you like to come over and see a movie?;Você quer vir aqui e ver um filme?
+I have to go to the supermarket.;Eu tenho que ir ao supermercado.
+Would you like to play video game?;Você quer jogar video game?
+Are you awake?;Você está acordado?
+What day is it today?;Que dia é hoje?
+I’m feeling sick today.;Eu estou me sentindo doente hoje.
+I’m running a little late.;Estou atrasado / Estou indo um pouco atrasado.
+What would you like for dinner?;O que você gostaria para o jantar?
+I’m going to take a shower and go to bed.;Eu vou tomar um banho e ir para a cama.
+I have to wake up at 8 o'clock.;Eu tenho que acordar às 8 horas.
+I’m too tired.;Estou muito cansado.
+I’m going to bed.;Eu vou para a cama.
+Good night. Sweet dreams.;Boa noite. Bons sonhos.
+What’s for lunch today?;O que tem para o almoço hoje?
+I didn’t sleep very well, I had a nightmare.;Eu não dormi muito bem, eu tive um pesadelo.
+How was school today?;Como foi a escola hoje?
+I took an exam and did well.;Eu fiz uma prova e me saí bem.
+Could you set the table, please?;Você poderia arrumar a mesa, por favor?
+I’m hungry.;Estou com fome.
+Do you like to travel?;Você gosta de viajar?
+Is lunch ready?;O almoço está pronto?
+Can you switch the light on?;Você pode ligar a luz?
+What would you like to do this evening?;O que você gostaria de fazer esta noite?
+Have you fed the dog?;Você alimentou o cachorro?
+Do you like animals?;Você gosta de animais?
+I need to go home.;Eu preciso ir pra casa.
+How was your day?;Como foi seu dia?
+I’ll be in my room.;Eu estarei no meu quarto.
+Is there anything good on TV?;Tem alguma coisa boa na TV?
+Have you seen this movie?;Você já viu esse filme?
+Are you up to anything this friday?;Vai fazer alguma coisa esta sexta?
+Do you want to order something to eat?;Você quer pedir alguma coisa para comer?
+Do you like vegetarian food?;Você gosta de comida vegetariana?
+May I come in?;Posso entrar?
+How was your weekend?;Como foi o seu fim-de-semana?
+I have no idea;Não faço ideia.
+It doesn’t matter.;Não importa.
+I’m in a hurry.;Estou com pressa.
+I’m leaving.;Estou de saída.
+I’m on vacation.;Estou de férias.
+Maybe some other time.;Fica para a próxima./ Talvez em outra oportunidade.
+On leave.;De licença.
+On the other hand…;Por outro lado…
+I’m going to save the day.;Estou indo resolver / evitar uma situação desastrosa.
+Thank you.;Obrigado.
+You’re welcome.;De nada.
+Be careful.;Tome cuidado.
+Can you translate this for me?;Você pode traduzir isso para mim?
+Don’t worry.;Não se preocupe.
+Everyone knows it.;Todo mundo sabe disso.
+How are you today?;Como você está hoje?
+I wish you Lucky;Eu te desejo sorte!
+Everything is ready.;Está tudo pronto.
+Can you speak slower?;Você pode falar mais devagar?
+Good idea!;Boa ideia!
+Help!;Socorro!
+He’s coming soon.;Ele volta logo!
+She is right.;Ela está certa.
+Let me think…;Deixe-me pensar…
+He is very famous.;Ele é muito famoso
+How is work going?;Como vai o trabalho?
+I already ate.;Eu já comi.
+I can’t hear you.;Eu não consigo te ouvir
+I can’t understand this!;Eu não consigo  compreender isso!
+I don’t like him.;Eu não gosto dele.
+I don’t feel confortable with that!;Eu não me sinto confortável com isso!
+I don’t speak very well.;Eu não falo muito bem.
+I don’t want that!;Eu não quero isso!
+I don’t want to bother you.;Eu não quero te incomodar.
+I feel good.;Eu me sinto bem
+I hope you and your wife have a nice trip.;Eu espero que você e tua esposa tenham uma boa viagem.
+If you need my help, please let me know.;Se você precisa da minha ajuda, por favor, me diga.
+I get off of work at 7 pm.;Eu saio do trabalho às 19h.
+No, thank you.;Não, obrigado/a.
+Yes, thank you.;Sim, obrigado/a.
+I have a headache.;Eu tenho dor de cabeça.
+I’ll come back later.;Eu volto mais tarde.
+I’ll take it.;Eu levo/Eu fico com alguma coisa.
+I would like to eat brazilian food.;Eu gostaria de comer comida brasileira.
+I’ll take you to the bus stop.;Eu te levo ao ponto de ônibus.
+I love you.;Eu amo você.
+I’m brazilian.;Eu sou brasileiro.
+Just a moment.;Só um momento.
+I’m coming to pick you up.;Eu estou indo te buscar
+I’m going to leave.;Eu vou sair.
+I’m fine, and you?;Eu estou bem, e você?
+I’m happy.;Estou feliz.
+I’m hungry.;Estou com fome.
+I’m married.;Sou casado.
+I’m not busy.;Eu não estou ocupado.
+I’m not single.;Eu não sou solteiro.
+I’m not ready yet.;Eu ainda não estou pronto.
+I’m not sure.;Eu não tenho certeza.
+Are you interested in sports?;Você se interessa por esportes?
+What is your name?;Qual é o seu nome?
+My name is Jake.;Meu nome é Jake.
+Hello. How are you?;Oi. Como está você? Como vai você? Tudo bem?
+I am fine, and you?;Eu estou bem, e você?
+Nice to meet you!;Prazer em te conhecer!
+Nice to meet you too.;O prazer é meu.
+What time is it?;Que horas são?
+I am hungry!;Estou com fome!
+I am thirsty!;Estou com sede!
+I am hot.;Eu estou com calor.
+I am cold.;Estou com frio.
+How old are you?;Qual é a sua idade?
+Where are you from?;De onde você é?
+I'm from Brazil.;Eu sou do Brasil.
+Please.;Por favor.
+Excuse me.;Com licença.
+I'm sorry.;Desculpa. Me desculpa. Lamento.
+Have a nice weekend.;Tenha um bom final de semana.
+You too.;Você também. Para você também.
+Where do you live?;Onde você mora?
+How much?;Quanto custa? Quanto é? Qual é o valor?
+Are you married or single?;Você é casado ou solteiro? Você é casada ou solteira?
+What do you do? I am a lawyer.;Qual é a sua profissão? Eu sou advogado.
+What do you do for a living? I am a lawyer.;Qual é a sua profissão? Eu sou advogado.
+Do you have any children?;Você tem filhos?
+Do you have any brothers or sisters?;Você tem irmãos?
+I'm late.;Estou atrasado.
+I miss you.;Estou com saudades de você.
+I'm sorry I'm late.;Desculpe o atraso.
+Can I help you?;Posso ajudar?
+Can you help me?;Você pode me ajudar?
+How is the weather?;Como está o tempo? Como está o clima?
+I love you.;Eu te amo.
+I need.;Eu preciso.
+I want.;Eu quero.
+I know.;Eu sei. Eu conheço.
+I don't know.;Eu não sei. Eu não conheço.
+I knew.;Eu sabia. Eu conhecia.
+I didn't know.;Eu não sabia. Eu não conhecia.
+Would you like some juice?;Você aceita suco? Quer suco?
+Where is the restroom?;Onde é o banheiro?
+Where is the bathroom?;Onde é o banheiro?
+I like it. I like you. I like ice cream.;Eu gosto disto. Eu gosto de você. Eu gosto de sorvete.
+Stop. Don't go. Stay here.;Pare. Não vá. Fique aqui.
+What do you think about Brazil?;O que você acha do Brasil?
+I think Brazil is a great country.;Eu acho o Brasil um ótimo país.
+Be careful. It's dangerous.;Tenha cuidado. É perigoso.
+I agree with you. I don't agree with you. Do you agree with me?;Eu concordo com você. Eu não concordo com você. Você concorda comigo?
+Are you OK?;Está tudo bem com você?
+I'm now well.;Eu não estou bem.
+Good luck.;Boa sorte.
+Have a nice trip.;Boa viagem.
+When is your birthday?;Quando é o seu aniversário?
+Is there a hotel near here?;Tem um hotel aqui perto?
+Enjoy your meal!;Bom apetite!
+Get well soon!;Melhoras! Fique bem logo!
+Have fun!;Divirta-se!
+Please wait a moment.;Por favor, espere um momento.
+Let's go. It's time.;Vamos. Está na hora.
+Don't speak loudly.;Não fale alto.
+Could you please speak more slowly?;Você poderia por favor falar mais devagar?
+Be careful.;Cuidado
+Be careful driving.;Cuidado ao dirigir
+Can you translate this for me?;Você pode me traduzir isso?
+Chicago is very different from Boston.;Chicago é bem diferente de Boston.
+Don't worry.;Não se preocupe.
+Everyone knows it.;Todo mundo sabe isso.
+Everything is ready.;Está tudo pronto.
+Excellent.;Excelente.
+From time to time.;De tempos em tempos
+Good idea.;Boa ideia
+He likes it very much.;Ele gosta muito.
+Help!;Socorro!
+He's coming soon.;Ele volta logo
+He's right.;Ele está certo.
+He's very annoying.;Ele está aborrecido.
+He's very famous.;Ele é muito famoso.
+How are you?;Como vai você?
+How's work going?;Como vai o trabalho?
+Hurry!;Depressa!
+I ate already.;Eu já comí.
+I can't hear you.;Eu não te ouço.
+I'd like to go for a walk.;Eu gostaria de ir caminhar.
+I don't know how to use it.;Eu não sei como usar isto.
+I don't like him.;Eu não gosto dele.
+I don't like it.;Eu não gosto.
+I don't speak very well.;Eu não falo muito bem.
+I don't understand.;Eu não entendo.
+I don't want it.;Eu não quero.
+I don't want that.;Eu não quero isso.
+I don't want to bother you.;Eu não quero te incomodar.
+I feel good.;Eu me sinto bem.
+If you need my help, please let me know.;Se você precisa de minha ajuda, por favor me diga.
+I get off of work at 6.;Eu saio do trabalho às 6.
+I have a headache.;Eu tenho dor de cabeça.
+I hope you and your wife have a nice trip.;Eu espero que você e tua esposa tenham uma boa viagem.
+I know.;Eu sei.
+I like her.;Eu gosto dela.
+I'll call you when I leave.;Eu te ligo quando sair.
+I'll come back later.;Eu volto mais tarde.
+I'll pay.;Eu pagarei.
+I'll take it.;Eu levo/Eu fico (com alguma coisa)
+I'll take you to the bus stop.;Eu te levo ao ponto de ônibus.
+I lost my watch.;Eu perdí meu relógio.
+I love you.;Eu amo você.
+I'm an American.;Eu sou um americano.
+I'm cleaning my room.;Eu estou limpando meu quarto.
+I'm cold.;Eu estou com frio.
+I'm coming to pick you up.;Eu estou indo te buscar
+I'm going to leave.;Eu vou sair.
+I'm good, and you?;Eu estou bem, e você?
+I'm happy.;Estou feliz.
+I'm hungry.;Estou com fome.
+I'm married.;Sou casado.
+I'm not busy.;Eu não estou ocupado.
+I'm not married.;Eu não sou casado.
+I'm not ready yet.;Eu ainda não estou pronto.
+I'm not sure.;Eu não tenho certeza.
+I'm sorry, we're sold out.;Lamento, está esgotado.
+I'm thirsty.;Estou com sede.
+I'm very busy. I don't have time now.;Estou muito ocupado. Não tenho tempo agora.
+I need to change clothes.;Eu preciso trocar de roupas.
+I need to go home.;Eu preciso ir pra casa.
+I only want a snack.;Eu só quero um lanche.
+Is Mr. Smith an American?;O Sr. Smith é americano?
+Is that enough?;É o suficiente?
+I think it's very good.;Eu acho isso muito bom
+I think it tastes good.;Eu acho isso bem saboroso.
+I thought the clothes were cheaper.;Eu pensei que as roupas eram mais baratas.
+It's longer than 2 miles.;É mais longe que 2 milhas.
+I've been here for two days.;Eu estou aqui há dois dias.
+I've heard Texas is a beautiful place.;Eu ouví que o Texas é um belo lugar.
+I've never seen that before.;Eu nunca ví isso antes.
+I was about to leave the restaurant when my friends arrived.;Eu estava saindo do restaurante quando meus amigos chegaram.
+Just a little.;Só um pouquinho.
+Just a moment.;Só um momento.
+Let me check.;Deixa-me ver/checar.
+Let me think about it.;Deixa-me pensar sobre isso.
+Let's go have a look.;Vamos dar uma olhada.
+Let's practice English.;Vamos praticar inglês.
+May I speak to Mrs. Smith please?;Posso falar com a Sra. Smith por favor?
+More than that.;Mais do que isso.
+Never mind.;Não faz mal/Não importa.
+Next time.;Da próxima vez.
+No.;Não.
+Nonsense.;Bobagem/Que nada.
+No, thank you.;Não, obrigado/a.
+Nothing else.;Nada mais/Mais nada
+Not recently.;Não recentemente.
+Not yet.;Não ainda/Ainda não.
+Of course.;Claro.
+Okay.;OK.
+Please fill out this form.;Por favor, preencha este formulário.
+Please take me to this address.;Por favor me leve para este endereço
+Please write it down.;Por favor escreva aqui.
+Really?;Mesmo?/De verdade?
+Right here.;Bem aqui.
+Right there.;Bem alí.
+See you later.;Te vejo mais tarde.
+See you tomorrow.;Te vejo amanhã.
+See you tonight.;Te vejo à noite.
+She's pretty.;Ela é bonita.
+Sorry to bother you.;Me perdoe te importunar.
+Stop!;Pare!
+Take a chance.;Arrisque.
+Take it outside.;Leve pra fora.
+Tell me.;Diga-me.
+Thanks for everything.;Obrigado/a por tudo.
+Thanks for your help.;Obrigado/a pela tua ajuda
+Thank you.;Obrigado/a.
+Thank you miss.;Obrigado/a senhorita.
+Thank you sir.;Obrigado/a senhor.
+Thank you very much.;Muito obrigado/a.
+That looks great.;Está ótimo (aparência)
+That's alright.;Tudo bem.
+That's enough.;Chega (é o suficiente)
+That's fine.;Está bom.
+That's it.;É isso.
+That smells bad.;Isso cheira ruim.
+That's not fair.;Isso não é justo
+That's not right.;Isso não está certo.
+That's right.;Está certo.
+That's too bad.;Isso é muito mal/ruim.
+That's too many.;Isso é muito (quantidade)
+That's too much.;Isso é muito (quantidade)
+The book is under the table.;O livro está debaixo da mesa.
+They'll be right back.;Eles voltam logo.
+They're the same.;Eles são os mesmos.
+They're very busy.;Eles estão bem ocupados.
+This doesn't work.;Isto não funciona.
+This is very difficult.;Isto é muito difícil.
+This is very important.;Isto é muito importante.
+Try it.;Prove.
+Very good, thanks.;Muito bem, obrigado/a.
+We like it very much.;Nós gostamos muito.
+Would you take a message please?;Você anotaria a mensagem por favor?
+Yes, really.;Sim, de verdade.
+You're beautiful.;Você é bonito/a
+You're very nice.;Você é muito gentil/legal.
+You're very smart.;Você é bem esperto.
+Your things are all here.;Tuas coisas estão todas aqui.
+Certainly!;Certamente!
+Good afternoon.;Boa tarde.
+Good evening sir.;Boa noite senhor.
+Good Luck.;Boa sorte.
+Good morning.;Bom dia.
+Great.;Ótimo.
+Happy Birthday.;Feliz aniversário.
+Have a good trip.;Tenha uma boa viagem.
+Hello.;Alô.
+Nice to meet you;Prazer em te conhecer.
+Please call me.;Por favor me ligue.
+About 300 kilometers.;Mais ou menos 300 quilometros.
+A one way ticket.;Passagem só de ida.
+Are you going to help her?;Você vai ajudá-la?
+A round trip ticket.;Passagem ida e volta.
+At what time?;A que horas?
+Can I make an appointment for next Wednesday?;Posso marcar a consulta para a próxima quarta-feira?
+Can you repeat that please?;Você poderia repetir por favor?
+Does this road go to New York?;Esta estrada vai para Nova Iorque?
+Do you have enough money?;Você tem dinheiro suficiente?
+Do you know how to cook?;Você sabe cozinhar?
+Do you know what this says?;Você sabe o que isso diz?
+Do you want me to come and pick you up?;Você quer que eu venha te pegar?
+Follow me.;Siga-me.
+From here to there.;Daqui para aí.
+Go straight ahead.;Siga em frente.
+Have you arrived?;Você já chegou?
+Have you been to Boston?;Você já esteve em Boston?
+How do I get there?;Como eu chego lá?
+How do I get to Daniel Street?;Como eu chego na rua Daniel?
+How do I get to the American Embassy?;Como eu chego na Embaixada Americana?
+How long does it take by car?;Quanto tempo demora de carro?
+How long does it take to get to Georgia?;Quanto tempo demora pra chegar na Georgia?
+How long is the flight?;Quanto tempo demora o voo?
+How was the movie?;Como foi o filme?
+I'd like to make a phone call.;Eu gostaria de fazer um telefonema.
+I'd like to make a reservation.;Eu gostaria de fazer uma reserva.
+I have a question I want to ask you.;Eu tenho uma pergunta para fazer pra você.
+I want to ask you a question.;Eu quero te perguntar uma coisa.
+I'll take that one also.;Eu levo aquele também.
+I'm coming right now.;Eu estou indo agora mesmo.
+I'm going home in four days.;Eu vou pra casa em quatro dias.
+I'm leaving Tomorrow.;Estou partindo amanhã.
+I'm looking for the post office.;Estou procurando o correio.
+Is this pen yours?;Esta caneta e tua?
+I wish I had one.;Quisera eu tivesse um.
+One ticket to New York please.;Um bilhete para Nova Iorque por favor (passagem).
+One way or round trip?;Só ida ou ida e volta?
+Please speak slower.;Por favor, fale mais devagar.
+Please take me to the airport.;Por favor me leve para o aeroporto.
+That way.;Por alí (naquela direção).
+The plane departs at five and half.;O avião parte às 17h30.
+They arrived yesterday.;Eles chegaram no sábado.
+Turn around.;Vire-se.
+Turn left.;Vire a esquerda.
+Turn right.;Vire a direita.
+What time are you going to the bus station?;A que horas você vai a rodoviária?
+When did this happen?;Quando isso aconteceu?
+When did you arrive in Boston?;Quando você chegou em Boston?
+When does he arrive?;Quando ele chega?
+When does it arrive?;Quando chega?
+When does the bank open?;Quando abre o banco?
+When does the bus leave?;Quando parte o ônibus?
+When do we arrive?;Quando nós chegamos?
+When do we leave?;Quando nós partimos?
+Where can I mail this?;Onde posso postar isto?
+Where is she from?;De onde ela é?
+Where is the bathroom?;Onde fica o banheiro?
+Why not?;Por que não?
+Will you remind me?;Você me lembra?
+11 dollars.;11 dólares.
+52 cents.;52 centavos.
+A few.;Poucos.
+A little.;Pouco/um pouco.
+Call the police.;Chame a polícia.
+Did your wife like California?;Sua esposa gostou da Califórnia?
+Do you have any coffee?;Você tem café?
+Do you have anything cheaper?;Você tem algo mais barato?
+Do you take credit cards?;Você aceita cartão de crédito?
+How are you paying?;Como você vai pagar?
+How many people are there in New York?;Quantas pessoas tem em Nova Iorque.
+How much are these earrings?;Quanto custam estes brincos?
+How much does it cost per day?;Quanto custa por dia?
+How much does this cost?;Quanto custa isto?
+How much do I owe you?;Quanto eu te devo?
+How much is it to go to Miami?;Quanto custa para ir a Miami?
+How much money do you make?;Quanto dinheiro você ganha?
+I'd like to eat at 5th street restaurant.;Eu gostaria de comer no restaurante da quinta rua.
+I don't have a girlfriend.;Eu não tenho namorada.
+I don't have any money.;Eu não tenho dinheiro.
+I have a reservation.;Eu tenho uma reserva.
+I'll have the same thing.;Eu quero a mesma coisa.
+I'll pay for dinner.;Eu pagarei o jantar.
+I'll pay for the tickets.;Eu pagarei os ingressos.
+I'm 26 years old.;Eu tenho 26 anos.
+I need to practice my English.;Eu preciso praticar meu inglês.
+Isn't it?;Não é?
+Is that ok?;Está OK?
+Is there any mail for me?;Tem alguma correspondência pra mim?
+It's eleven and half.;São 23h30.
+It's is a quarter past nine.;São nove e quinze.
+Please come in.;Por favor, entre.
+Sorry, we don't accept credit cards.;Desculpe, nós não aceitamos cartão de crédito.
+Sorry, we only accept Cash.;Desculpe, nós só aceitamos em dinheiro.
+That restaurant is not expensive.;Aquele restaurante não é caro.
+That's too expensive.;Isso é muito caro.
+There are many people here.;Tem muita gente aqui.
+They charge 26 dollars per day.;Eles cobram 26 dólares por dia.
+What's the exchange rate for dollars?;Qual é a taxa de conversão para o dólar?
+What's the phone number?;Qual é o número do telefone?
+Where can I buy tickets?;Onde posso comprar os ingressos?
+Where would you like to meet?;Onde você gostaria de se encontrar?
+Which one is better?;Qual deles/delas é melhor?
+Across from the post office.;Do outro lado do correio.
+At 3 o'clock.;Às três horas.
+Be quiet.;Fique quieto.
+Can you recommend a good restaurant?;Você poderia recomendar um bom restaurante?
+Here it is.;Aqui está.
+Here you are.;Aqui está.
+He's in the kitchen.;Ele está na cozinha.
+He studies at Boston University.;Ele estuda na Universidade de Boston.
+How far is it?;Quanto longe?
+How far is it to Chicago?;Quão longe é Chicago?
+How many miles is it to Pennsylvania?;Quantas milhas são até Pensilvânia?
+I'd like a single room.;Eu queria um quarto de solteiro.
+I like to watch TV.;Eu gosto de assistir TV.
+It's delicious!;Está delicioso.
+It's half past 11.;São onze e meia.
+It's less than 5 dollars.;É menos de 5 dólares.
+It's more than 5 dollars.;É mais que 5 dólares.
+It's near the Supermarket.;É perto do supermercado.
+it's not suppose to rain today.;Não é pra chover hoje.
+It's ok.;Está OK.
+It's on 7th street.;É na Sétima Rua.
+It's really hot.;Está bem calor.
+It's suppose to rain tomorrow.;É pra chover amanhã.
+I was going to the library.;Eu estava indo à biblioteca.
+I was in the library.;Eu estava na biblioteca.
+Let's go.;Vamos.
+Maybe.;Pode ser/Talvez.
+More than 200 miles.;Mais de 200 milhas.
+My house is close to the bank.;Minha casa fica perto do banco.
+Near the bank.;Perto do banco.
+On the left.;À esquerda.
+On the right.;À direita.
+On the second floor.;No segundo andar.
+Outside the hotel.;Fora do hotel.
+Over here.;Por aqui/Cá.
+Over there.;Por alí/Lá.
+The book is behind the table.;O livro está atrás da mesa.
+The book is in front of the table.;O livro está na frente da mesa.
+The book is near the table.;O livro está perto da mesa.
+The book is next to the table.;O livro está ao lado da mesa.
+The book is on top of the table.;O livro está no topo da mesa.
+There are some books on the table.;Tem alguns livros na mesa.
+There's a book under the table.;Tem um livro sob a mesa.
+We're from California.;Nós somos da Califórnia.
+What's the address?;Qual é o endereço?
+Where are you going?;Onde você está indo?
+Where is it?;Onde está?
+Where would you like to go?;Onde você gostaria de ir?
+Who won?;Quem ganhou?
+Can I see your passport please?;Posso ver teu passaporte por favor?
+Can I take a message?;Quer deixar uma mensagem?
+Can I try it on?;Posso experimentar?
+Can we sit over there?;Podemos nos sentar aqui?
+Did you come with your family?;Você veio com sua família?
+Do you think it's possible?;Você acha que é possível?
+Here's my number.;Aqui está meu telefone.
+He's not in right now.;Ele não está agora.
+Hi, is Mrs. Smith there, please?;Oi, a Sra. Smith está, por favor?
+I'd like some water too, please.;Eu também queria um pouco de água, por favor.
+I'd like to buy a bottle of water, please.;Eu queria comprar uma garrafa de água, por favor.
+I'd like to buy something.;Eu queria comprar alguma coisa.
+I'd like to go to the store.;Eu gostaria de ir à loja.
+I'd like to rent a car.;Eu gostaria de alugar um carro.
+I'd like to send a fax.;Eu gostaria de enviar um fax.
+I'd like to send this to America.;Eu gostaria de enviar isto à América.
+I'd like to speak to Mr. Smith please.;Eu gostaria de falar com o Sr. Smith, por favor.
+I have three children, two girls and one boy.;Eu tenho três filhos, duas meninas e um menino.
+I'll be right back.;Eu volto logo.
+I'll call back later.;Eu ligo mais tarde.
+I'll call you on Friday.;Eu te ligo na sexta,
+I'll teach you.;Eu te ensinarei.
+I'm ok.;Estou OK.
+I need some tissues.;Eu preciso de uns lenços.
+Is there an English speaking guide?;Tem algum guia que fale inglês?
+I want to give you a gift.;Eu quero te dar um presente.
+Male or female?;Masculino ou feminino?
+My cell phone doesn't have good reception.;Meu celular não está com um bom sinal.
+My cell phone doesn't work.;Meu celular não funciona.
+Please take off your shoes.;Por favor tire teus sapatos.
+Sorry, I think I have the wrong number.;Desculpe, eu acho que eu tenho um número errado.
+What is the area code?;Qual é o DDD (Código de Área).
+What's the name of the company you work for?;Qual o nome da empresa para a qual você trabalha?
+What's wrong?;O que está errado?
+What's your address?;Qual é o teu endereço?
+Where can I find a hospital?;Onde posso achar um hospital?
+Where's the closest restaurant?;Onde fica o restaurante mais próximo?
+Where's the pharmacy?;Onde tem uma farmácia?
+Who are you?;Quem é você?
+Who is that?;Quem é?
+Who would you like to speak to?;Com quem você gostaria de falar?
+Will you take me home?;Você me leva pra casa?
+Would you like water or milk?;Você gostaria de água ou leite?
+11 days ago.;11 dias atrás.
+2 hours.;2 horas.
+All day.;O dia todo.
+A long time ago.;Há muito tempo.
+Are they coming this evening?;Eles virão esta noite?
+Are you comfortable?;Você está confortável?
+Are your children with you?;Teus filhos estão contigo?
+As soon as possible.;Assim que possível.
+At 3 o'clock in the afternoon.;Às três da tarde.
+At 5th street.;Na quinta rua.
+At 7 o'clock at night. (evening)?;Às sete da noite.
+At 7 o'clock in the morning.;Às sete da manhã.
+At what time did it happen?;A que horas aconteceu?
+Can I help you?;Posso te ajudar?
+Do you have a swimming pool?;Você tem piscina?
+Do you have this in size 11?;Você tem este no tamanho 11?
+Do you think you'll be back by eleven and half?;Você acha que estará de volta até às 11h30?
+Everyday I get up at 6AM.;Todos os dias eu acordo às 6 da manhã.
+Every week.;Toda semana.
+Expiration date.;Data de vencimento.
+Have you been waiting long?;Você está esperando há muito tempo?
+He'll be back in 20 minutes.;Ele volta em 20 minutos.
+His family is coming tomorrow.;A família dele vem amanhã.
+How about Saturday?;Que tal sábado?
+How long are you going to stay?;Quanto tempo você vai ficar?
+How long are you going to stay in California?;Quanto tempo você vai ficar na Califórnia?
+How long will it take?;Quanto tempo vai levar?
+How much altogether?;Quanto custa tudo junto?
+How much will it cost?;Quanto vai custar?
+I don't have enough money.;Eu não tenho dinheiro suficiente.
+I'm getting ready to go out.;Eu estou me aprontando pra sair.
+I'm just looking. (Shopping);Estou só olhando (num Shopping)
+I'm worried too.;Estou preocupado também.
+It'll be cold this evening.;Vai fazer frio esta noite.
+It rained very hard today.;Choveu forte hoje.
+It's 17 dollars.;São 17 dólares.
+It's 6AM.;São 6 da manhã.
+It's a 8:45.;São 8h45.
+It's a quarter to 7.;São quinze para as 7,
+It's going to snow today.;Vai nevar hoje.
+It's here.;É aqui.
+It's there.;É ali.
+I've already seen it.;Eu já ví.
+John is going on vacation tomorrow.;John vai sair de férias amanhã.
+My birthday is August 27th.;Meu aniversário é dia 27 de agosto.
+Now or later?;Agora ou mais tarde?
+October 22nd.;22 de outubro.
+She wants to know when you're coming.;Ela quer saber quando você vem.
+Sometimes I go to sleep at 11PM, sometimes at eleven and half PM.;Às vezes eu vou dormir às 23h, algumas vezes às 23h30.
+There's plenty of time.;Tem muito tempo.
+The whole day.;O dia todo.
+We're late.;Nós estamos atrasados.
+What day are they coming over?;Em qual dia eles vem?
+What day of the week is it?;Que dia da semana é hoje?
+What is today's date?;Que dia é hoje?
+What's your religion?;Qual é a tua religião?
+What time are they arriving?;A que horas eles chegam?
+What time did you get up?;A que horas você se levanta?
+What time did you go to sleep?;A que horas você vai dormir?
+What time did you wake up?;A que horas você acorda?
+What time does it start?;A que horas começa?
+What time do you think you'll arrive?;Que horas você acha que vai chegar?
+What time is it?;Que horas são?
+When are they coming?;Quado eles estão vindo?
+When are you coming back?;Quando você volta?
+When are you going to pick up your friend?;Quando você vai buscar teu/tua amigo/a?
+When are you leaving?;Quando você parte?
+When are you moving?;Quando você se muda?
+When is the next bus to Philidalphia?;Quando é o próximo ônibus para a Filadélfia?
+When is your birthday?;Quando é o teu aniversário?
+When I went to the store, they didn't have any apples.;Quando eu fui à loja ele não tinham nenhuma maçã.
+When was the last time you talked to your mother?;Quando foi a última vez que você falou com tua mãe?
+When will he be back?;Quando ele volta?
+When will it be ready?;Quando ficará pronto?
+Where are you going to go?;Onde você está indo?
+Are you busy?;Você está ocupado?
+Can we have some more bread please?;Posso ter um pouco de pão por favor?
+Do you have any money?;Você tem dinheiro?
+For how many nights?;Por quantas noites?
+How long will you be staying?;Quanto tempo você vai ficar?
+I'd like a map of the city.;Eu queria um mapa da cidade.
+I'd like a non-smoking room.;Eu queria um quarto de não fumante.
+I'd like a room.;Eu queria um quarto.
+I'd like a room with two beds please.;Eu queria um quarto com duas camas por favor.
+I need a doctor.;Eu preciso de um médico.
+Is there a nightclub in town?;Tem uma casa noturna/danceteria na cidade?
+Is there a restaurant in the hotel?;Tem restaurante no hotel?
+Is there a store near here?;Tem uma loja por aqui?
+Sorry, we don't have any vacancies.;Desculpe, nós não temos vagas.
+Take me to the Marriott Hotel.;Leve-me para o Hotel Marriott.
+What's the charge per night?;Qual é a diária? (hotel).
+What time is check out?;A que horas é a saída do hotel?
+Where is the airport?;Onde fica o aerporto?
+Where's the mail box?;Onde tem uma caixa de correio?
+Are you here alone?;Você vai sozinho?
+Can I bring my friend?;Posso trazer meu amigo/minha amiga?
+Can I have a receipt please?;Posso ter o recibo por favor?
+Can it be cheaper?;Posso ter um desconto?
+Can we have a menu please.;Você pode nos trazer o carápio por favor?
+Can you hold this for me?;Você pode segurar isso para mim?
+Do you have any children?;Você tem filhos?
+Do you know how much it costs?;Você sabe quanto custa?
+Have you eaten at that restaurant?;Você já comeu num restaurante?
+Have you eaten yet?;Você já comeu?
+Have you ever had Potato soup?;Você já comeu sopa de batata?
+He likes juice but he doesn't like milk;Ele gosta de suco mas não gosta de leite.
+Here is your salad.;Aqui está sua salada.
+Here's your order.;Aqui está o seu pedido.
+How does it taste?;Como está o sabor?
+How many people?;Para quantas pessoas? (restaurante).
+I agree.;Eu concordo.
+I'd like a table near the window.;Eu queria uma mesa perto da janela.
+I'd like to call the United States.;Eu gostaria de ligar para os Estados Unidos.
+I haven't been there.;Eu nunca estive lá.
+I haven't finished eating.;Eu não acabei de comer.
+I like it.;Eu gosto.
+I'll give you a call.;Eu te dou uma ligada.
+I'll have a cup of tea please.;Eu quero uma xícara de chá por favor.
+I'll have a glass of water please.;Eu quero um copo com água por favor.
+I'm from America.;Eu sou dos Estados Unidos.
+I'm going to bed.;Eu estou indo para a cama.
+I'm here on business.;Estou aqui a negócios.
+I'm sorry.;Lamento/Sinto muito.
+I only have 5 dollars.;Eu tenho somente 5 dólares.
+I think I need to see a doctor.;Eu acho que eu preciso ir ao médico.
+It's August 25th.;Hoje é 25 de agosto.
+I understand.;Eu entendo.
+June 3rd.;3 de junho.
+The food was delicious.;A comida estava deliciosa.
+There are some apples in the refrigerator.;Tem algumas maçãs na geladeira.
+There's a restaurant near here.;Tem um restaurante aqui perto.
+There's a restaurant over there, but I don't think it's very good.;Tem um restaurante alí mas eu não acho que seja muito bom.
+Waiter!;Garçon!
+Waitress!;Garçonete!
+We can eat Italian or Chinese food.;Nós podemos comer comida italiana ou chinesa.
+We'll have two glasses of water please.;Nós queremos dois copos com água por favor.
+What are you going to have?;O que você vai quere?
+What do you recommend?;O que você recomenda?
+What's your email address?;Qual é o teu endereço eletrônico? (email).
+What would you like to drink?;O que você gostaria de beber?
+What would you like to eat?;O que você gostaria de comer?
+Where is an ATM?;Onde tem um caixa eletrônico?
+Where is there a doctor who speaks English?;Onde tem um médico que fale inglês?
+Which one?;Qual deles?
+Would you ask him to come here?;Você pede a ele para vir aqui?
+Would you like a glass of water?;Você gostaria de um copo com água?
+Would you like coffee or tea?;Você gostaria de café ou chá?
+Would you like something to drink?;Você gostaria de algo para beber?
+Would you like some water?;Você gostaria de um pouco de água?
+Would you like some wine?;Você gostaria de um pouco de vinho?
+Would you like to go for a walk?;Você gostaria de fazer um passeio?
+Would you like to watch TV?;Você gostaria de assistir TV?
+Are you American?;Você é americano?
+Are you coming this evening?;Você vai vir hoje à noite?
+Are you free tonight?;Você está livre hoje à noite?
+Are you going to take a plane or train?;Você vai pegar um avião ou um trem?
+Are you hungry?;Você está com fome?
+Are you sure?;Você tem certeza?
+Are you working Tomorrow?;Você vai trabalhar amanhã?
+Business is good.;O negócio é bom.
+Cheers!;Saúde!
+Did it snow yesterday?;Nevou ontem?
+Did you get my email?;Você recebeu meu email?
+Did you take your medicine?;Você tomou seu remédio?
+Do you feel better?;Você está melhor?
+Do you go to Florida often?;Você vai frequentemente para a Flórida?
+Do you have another one?;Você tem um outro?
+Do you know where there's a store that sells towels?;Você sabe onde tem uma loja que vende toalhas?
+Do you like it here?;Você gosta daqui?
+Do you like the book?;Você gosta deste livro?
+Do you need anything?;Você precisa de alguma coisa?
+Do you play any sports?;Você pratica algum esporte?
+Do you sell medicine? (store);Você vende remédios?
+Do you study English?;Você estuda inglês?
+Do you want to come with me?;Você quer vir comigo?
+Do you want to go with me?;Você quer ir comigo?
+Excuse me.;Com licença.
+Give me a call.;Me telefona.
+Has your brother been to California?;O teu irmão já foi à Califórnia?
+Have they met her yet?;Você já a encontrou?
+Have you done this before?;Você já fez isso antes?
+How long have you been here?;Há quanto tempo você está aqui?
+How long have you been in America?;Há quanto tempo você está na América?
+How long have you lived here?;Há quanto tempo você vive aqui?
+How many children do you have?;Quantos filhos você tem?
+How many languages do you speak?;Quantos idiomas você fala?
+How many people do you have in your family?;Quantas pessoas tem na tua família?
+How much would you like?;Quanto você gostaria?
+How old are you?;Quantos anos você tem?
+I bought a shirt yesterday.;Eu comprei uma camisa ontem.
+I don't feel well.;Eu não me sinto bem.
+I have pain in my arm.;Eu tenho dor no meu braço.
+I have to wash my clothes.;Eu tenho que lavar minhas roupas.
+I have two sisters.;Eu tenho duas irmãs.
+I'll tell him you called.;Eu direi a ele que você ligou.
+I'm 32.;Eu tenho 32.
+I'm 6'2".;Eu meço 6'2" (1.87m).
+I'm allergic to seafood.;Eu sou alérgico a frutos do mar.
+I'm American.;Eu sou americano.
+I'm a size 8.;Meu tamanho é 8 (38).
+I'm fine, and you?;Eu estou bem, e você?
+I'm not afraid.;Eu não estou com medo.
+I'm sick.;Eu estou doente.
+I remember.;Eu me lembro.
+I speak a little English.;Eu falo um pouco de inglês.
+Is your house like this one?;A tua casa é como esta?
+Is your husband also from Boston?;O teu marido também é de Boston?
+It's not very expensive.;Não é muito caro.
+I've been there.;Eu já estive lá.
+Let's share.;Vamos dividir.
+My daughter is here.;Minha filha está aqui.
+My father has been there.;Meu pai já esteve lá.
+My father is a lawyer.;Meu pai é advogado.
+My grandmother passed away last year.;Meu/Minha avô/avó morreu no ano passado.
+My name is John Smith.;Meu nome é John Smith.
+My son.;Meu filho.
+My son studies computers.;Me filho estuda computação.
+No, I'm American.;Não, eu sou americano.
+No, this is the first time.;Não, esta é a primeira vez.
+Our children are in America.;Nossos filhos estão nos Estados Unidos.
+She's an expert.;Ela é uma especialista/perita.
+She's older than me.;Ela é mais velha que eu.
+That car is similar to my car.;Aquele carro parece o meu.
+This is Mrs. Smith.;Esta é a Sra. Smith.
+This is my mother.;Esta é a minha mãe.
+This is the first time I've been here.;Esta é a primeira vez que eu venho aqui.
+We have two boys and one girl.;Nós temos dois garotos e uma garota.
+What are you going to do tonight?;O que você vai fazer hoje à noite?
+What are your hobbies?;Quais são os teus passsatempos?
+What do you study?;O que você estuda?
+What do you want to do?;O que você quer fazer?
+What school did you go to?;Em que escola você foi?
+What's your favorite movie?;Qual é o teu filme favorito?
+What's your last name?;Qual é o teu sobrenome?
+What's your name?;Qual é o teu nome?
+Where are the t-shirts?;Onde estão as camisetas?
+Where did you go?;Onde você foi?
+Where did you learn English?;Onde você aprendeu inglês?
+Where did you work before you worked here?;Onde você trabalhou antes daqui?
+Where do you live?;Onde você mora?
+Where were you?;Onde você estava?
+Who sent this letter?;Quem mandou esta carta?
+Would you like to buy this?;Você gostaria de comprar isto?
+Your children are very well behaved.;Teus filhos se comportam muito bem.
+Your daughter.;Sua filha.
+You're smarter than him.;Você é mais esperto/a que ele.
+You speak English very well.;Você fala inglês muito bem.
+Are there any concerts?;Tem algum show?
+Do you want to go to the movies?;Você quer ir ao cinema?
+Have you seen this movie?;Você já assistiu este filme?
+He said you like to watch movies.;Ele disse que você gosta de assistir filmes.
+How tall are you?;Quanto você mede?
+Is the bank far?;O banco é longe?
+Is there a movie theater nearby?;Tem um cinema por aqui?
+What do people usually do in the summer in Los Angeles?;O que as pessoas geralmente fazerm no verão em Los Angeles?
+What kind of music do you like?;Que tipo de música voce gosta?
+What's your favorite food?;Qual é a tua comida favorita?
+What time does the movie start?;A que horas o filme começa?
+Who was your teacher?;Quer foi teu professor/tua professora?
+Would you like to have dinner with me?;Você gostaria de jantar comigo?
+Would you like to rent a movie?;Você gostaria de alugar um filme?
+Can I have a glass of water please?;Posso ter um copo com água por favor?
+Can I use your phone?;Posso usar teu telefone?
+Do you have any vacancies?;Você tem férias?
+Do you have the number for a taxi?;Você tem um telefone de um táxi?
+Do you know her?;Você a conhece?
+Do you know where she is?;Você sabe onde ela está?
+Do you play basketball?;Você joga basquete?
+Fill it up, please. (gas station);Encha o tanque por favor.
+He needs some new clothes.;Ele precisa de roupas novas.
+How much is that?;Quanto custa isso?
+How much is this?;Quanto custa isto?
+I believe you.;Eu acredito em você.
+I'd like the number for the Hilton Hotel please.;Eu gostaria do telefone do Hotel Hilton, por favor.
+I'd like to buy a phone card please.;Eu gostaria de comprar um cartão telefônico, por favor.
+I'd like to go home.;Eu gostaria de ir para casa.
+I'd like to go shopping.;Eu gostaria de ir às compras.
+If you like it I can buy more.;Se você gosta eu posso comprar mais.
+I'm a beginner.;Eu sou iniciante.
+I'm full.;Eu estou satisfeito.
+I'm just kidding.;Estou só brincando.
+I'm single.;Eu sou solteiro.
+I speak two languages.;Eu falo dois idiomas.
+I thought he said something else.;Eu pensei que ele disse outra coisa.
+It's not too far.;Não é muito longe.
+I usually drink coffee at breakfast.;Eu geralmente tomo um cafezinho no café da manhã.
+Sorry, we don't have any.;Desculpe, nós não temos nenhum/a.
+The books are expensive.;Os livros são caros.
+Try it on.;Prove-o.
+What do you want to buy?;O que você quer comprar?
+What size?;Que tamanho?
+What time does the store open?;A que horas a loja abre?
+When does the plane arrive?;Quando chega o avião?
+Where are you?;Onde estã você?
+Would you like something to eat?;Você gostaria de algo para comer?
+Am I pronouncing it correctly?;E estou pronunciando corretamente?
+Can you do me a favor?;Você pode me fazer um favor?
+Can you help me?;Você pode me ajudar?
+Can you please say that again?;Você pode dizer isso novamente por favor?
+Can you show me?;Você pode me mostar?
+Can you throw that away for me?;Você pode jagar isso fora pra mim?
+Does anyone here speak English?;Alguém fala inglês?
+Don't do that.;Não faça isso.
+Do you believe that?;Você acredita nisso?
+Do you have a pencil?;Você tem um lápis?
+Do you smoke?;Você fuma?
+Do you speak English?;Você fala inglês?
+Excuse me, what did you say?;Desculpe-me, o que voce disse?
+Forget it.;Esquece.
+How do you pronounce that?;Como você pronuncia isso?
+How do you say it in English?;Como você diz isso em inglês?
+How do you spell it?;Como você soletra isso?
+How do you spell the word "Seattle?";Como você soletra a palavra "Seattle"?
+I can swim.;Eu sei nadar.
+I can't hear you clearly.;Eu posso te ouvir claramente.
+I don't mind.;Eu não me importo.
+I don't speak English very well.;Eu não falo inglês muito bem.
+I don't think so.;Eu acho que não.
+I don't understand what your saying.;Eu não entendo o que você está dizendo.
+Is there air conditioning in the room?;Tem ar condicionado neste quarto?
+I think you have too many clothes.;Eu acho que você tem muitas roupas.
+I trust you.;Eu confio em você.
+I understand now.;Eu compreendo agora.
+Let's meet in front of the hotel.;Vamos nos encontrar em frente ao hotel.
+Please sit down.;Por favor, sente-se.
+Please speak English.;Por favor, fale inglês.
+Please speak more slowly.;Por favor, fale mais devagar.
+Sorry, I didn't hear clearly.;Desculpe, eu não ouvi claramente.
+That means friend.;Isso significa amigo.
+That's wrong.;Está errado.
+Try to say it.;Tente dizê-lo.
+What does this mean?;O que isso significa?
+What does this say?;O que isso diz?
+What does this word mean?;O que significa esta palavra?
+What's the exchange rate?;Qual é a taxa de conversão?
+Whose book is that?;De quem é esse livro?
+Why aren't you going?;Por que você está indo?
+Why are you laughing?;Quem está rindo?
+Why did you do that?;Por que você fez isso?
+Are you allergic to anything?;Você tem alergia a alguma coisa?
+Are you ready?;Você está pronto/a?
+Call me.;Me telefona.
+Did you send me flowers?;Você me mandou flores?
+Do you sell batteries?;Você vende pilhas?
+I don't care.;Eu não me importo.
+I give up.;Eu desisto.
+I got in an accident.;Eu sofrí um acidente.
+I have a cold.;Eu estou gripado.
+I have one in my car.;Eu tenho um/uma no meu carro.
+I made this cake.;Eu fiz este bolo.
+I'm a teacher.;Eu sou professor/a.
+I'm self-employed.;Eu tenho meu próprio negócio.
+I still have a lot to do.;Eu ainda tenho muito que fazer.
+I still haven't decided.;Eu ainda não decidí.
+It depends on the weather.;Depende do tempo.
+It's very cold today.;Está muito frio hoje.
+My luggage is missing.;Minha bagagem está perdida.
+My stomach hurts.;Meu estômago dói.
+My throat is sore.;Minha garganta está inflamada.
+My watch has been stolen.;Meu relógio foi roubado.
+Take this medicine.;Tome este remédio.
+The accident happened at the intersection.;O acidente aconteceu no cruzamento.
+There has been a car accident.;Houve um acidente de carro.
+Where can I exchange U.S. dollars?;Onde posso trocar dólares?
+Where do you work?;Onde você trabalha?
+Where's the nearest hospital?;Onde fica o hospital mais próximo?
+Where's the post office?;Onde fica o correio?
+And you?;E você?
+Anything else?;Algo mais? / Mais alguma coisa?
+Are they the same?;Eles são iguais? / São as mesmas coisas?
+Are you afraid?;Você está com medo?
+Are you going to attend their wedding?;Você vai ao casamento deles?
+Are you married?;Você é casado?
+Are you okay?;Você está bem?
+Are you sick?;Você está doente?
+Behind the bank.;Atrás do banco
+Can I borrow some money?;Posso emprestar algum dinheiro?
+Can I have the bill please?;Pode me dar a conta por favor?
+Can you call back later?;Você poderia ligar mais tarde?
+Can you call me back later?;Você poderia me ligar mais tarde?
+Can you carry this for me?;Você pode carregarr isso pra mim?
+Can you fix this?;Você pode consertar isso?
+Can you give me an example?;Você pode me dar um exemplo?
+Can you speak louder please?;Você poderia falar mais alto por favor?
+Can you swim?;Você sabe nadar?
+Does he like the school?;Você gosta da escola?
+Do you accept U.S. Dollars?;Você aceita dólares?
+Do you have a girlfriend?;Você tem namorada?
+Do you have an appointment?;Você tem compromisso?
+Do you have a problem?;Você está com um problema?
+Do you hear that?;Você ouviu isso?
+Do you know how to get to the Marriott Hotel?;Você sabe como chegar no Hotel Marriott?
+Do you know what this means?;Você sabe o que isso significa?
+Do you know where I can get a taxi?;Você sabe onde posso pegar um táxi?
+Do you know where my glasses are?;Você sabe onde estão os meus óculos?
+Do you like your co-workers?;Você gosta dos teus colegas de trabalho?
+Do you need anything else?;Você precisa de mais alguma coisa?
+Do you understand?;Você entende?
+Give me the pen.;Me dê a caneta.
+How do you know?;Como você sabe?
+How is she?;Como ela está?
+How long is it?;Quanto tempo demora?
+How many?;Quantos/quantas
+How much is it?;Quanto custa?
+I have a lot of things to do.;Eu tenho um monte de coisas pra fazer.
+In 30 minutes.;Em 30 minutos.
+Is anyone else coming?;Alguém mais está vindo?
+Is everything ok?;Está tudo OK?
+Is it cold outside?;Está frio lá fora?
+Is it far from here?;É longe daqui?
+Is it hot?;Está quente?
+Is it raining?;Está chovendo?
+Is there anything cheaper?;Tem algo mais barato?
+Is your son here?;O teu filho está aqui?
+Should I wait?;Eu deveria esperar?
+The big one or the small one?;O grande ou o pequeno?
+The cars are American.;Os carros são americanos.
+Were there any problems?;Houve algum problema?
+Were you at the library last night?;Você estava na biblioteca ontem à noite?
+What are you doing?;O que você está fazendo?
+What are you thinking about?;No que você está pensando?
+What are you two talking about?;Sobre o que vocês dois estão falando?
+What did you do last night?;O que você fez ontem à noite?
+What did you do yesterday?;O que você fez ontem?
+What did you think?;O que você achou?
+What do they study?;O que eles estudam?
+What do you have?;O que você tem?
+What do you think?;O que você acha?
+What happened?;O que aconteceu?
+What is it?;O que é?
+What is that?;O que é isso?
+What should I wear?;O que eu deveria vestir?
+What's in it?;O que tem nisso?
+What's the temperature?;Qual é a temperatura?
+What's this?;O que é isto?
+What's up?;O que se passa?/O que está acontecendo?
+Where are you from?;De onde você é?
+Where can I rent a car?;Onde posso alugar um carro?
+Where did it happen?;Quando aconteceu?
+Where did you learn it?;Onde você aprendeu?
+Where is he?;Onde ele está?
+Where is he from?;De onde ele é?
+Which is better, the spaghetti or chicken salad?;Qual é melhor o espaguete ou a salada de frango?
+Which one do you want?;Qual você quer?
+Which one is cheaper?;Qual é mais barato?
+Which one is the best?;Qual é o/a melhor?
+Which school does he go to?;Em qual escola ele vai?
+Who are they?;Quem são eles?
+Who are you looking for?;Quem você está procurando?
+Who is it? (Inquiring about who is on the phone);Quem fala? (perguntando quem está no telefone)
+Who's calling?;Quem fala?
+Who's that man over there?;Que é aquele homem alí?
+Who taught you that?;Quem te ensinou isso?
+Why did you say that?;Por que você disse isso?
+Will you pass me the salt please?;Você me passa o sal por favor?
+Will you put this in the car for me?;Você poria isso no carro pra mim?
+Would you ask him to call me back please?;Você pede a ele pra me ligar de volta por favor?
+Yes.;Sim.
+You have a very nice car.;Você tem um carro legal.
+You look like my sister.;Você se parece com minha irmã.
+6 dollars per hour.;6 dólares por hora
+Are you waiting for someone?;Você está esperando alguém?
+Are you working today?;Você trabalha hoje?
+Bring me my shirt please.;Me traga a minha camisa por favor
+Do you like to watch TV?;Você gosta de assistir TV?
+Do you like your boss?;Você gosta do teu chefe?
+Have you finished studying?;Você já acabou de estudar?
+He's an Engineer.;Ele é engenheiro.
+He's very hard working.;Ele é um trabalhador duro.
+He works at a computer company in New York.;Ele trabalha numa empresa em Nova Iorque.
+How long have you worked here?;Há quanto tempo você trabalha aqui?
+How many hours a week do you work?;Quantas horas por semana voce trabalha?
+How much money do you have?;Quanto dinheiro você tem?
+How's the weather?;Como está o tempo?
+How was the trip?;Como foi a viagem?
+I forget.;Eu esqueço.
+I'm good.;Estou bem.
+I'm ready.;Estou pronto.
+I still have a lot of things to buy.;Eu ainda tenho muitas coisas pra comprar.
+I've seen it.;Eu já vi.
+What does he do for work?;No que ele trabalha?
+What does your father do for work?;No que teu pai trabalha?
+What do you do for work?;No que você trabalha?
+What do your parents do for work?;No que teus pais trabalham?
+What's the matter?;Qual é o problema?
+What time do you go to work everyday?;A que horas você vai para o trabalho todos os dias?
+When do you arrive in the U.S.?;Quando você chega nos EUA?
+When do you get off work?;Quando você sai do trabalho?
+Where did you put it?;Onde você colocou?
+Where does it hurt?;Onde doi?
+Where do you want to go?;Onde você quer ir?
+Come here.;Venha aqui.
+Does it often snow in the winter in Massachusetts?;Geralmente neva em Massachussetts?
+Do you think it'll rain today?;Você acha que vai chover hoje?
+Do you think it's going to rain tomorrow?;Você acha que vai chover amanhã?
+How's business?;Como estão os negócios?
+Is it close?;Está fechado?
+Is it possible?;É possível?
+Is it ready?;Está pronto?
+It costs 20 dollars per hour.;Custa 20 dólares por hora.
+It hurts here.;Dói aqui.
+It's far from here.;É longe daqui.
+It's going to be hot today.;Vai ser quente hoje.
+It's north of here.;Fica ao norte daqui.
+It's over there.;É ali pra cima.
+It's raining.;Está chovendo.
+It's too late.;É muito tarde/Tarde demais.
+It's very important.;É muito importante.
+It will arrive shortly.;Vai chegar logo.
+The roads are slippery.;As estradas estão escorregadias.
+What's the room rate?;Qual é a diária? (hotel).
+What will the weather be like tomorrow?;Como vai estar o tempo amanhã?
